@@ -22,25 +22,6 @@ The Tableau dashboard is designed to offer a clear and interactive view of the d
 - **Geographic Distribution:** Maps the distribution of transactions across different regions.
 
 
-## Repository Structure
-
-- `data/` : Contains the dataset file(s).
-- `dashboard/` : Includes the Tableau dashboard file(s).
-- `images/` : Contains images used in the `README` file.
-- `scripts/` : Any scripts or code used in data preparation or analysis.
-
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-
 ## Acknowledgements
 
 - [Kaggle](https://www.kaggle.com) for providing the dataset.
