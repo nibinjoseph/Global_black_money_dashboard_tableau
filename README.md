@@ -1,1 +1,49 @@
-# Global_black_money_dashboard_tableau
+# Global Black Money Transaction Dashboard
+
+![Tableau Dashboard](https://public.tableau.com/app/profile/nibin.joseph4050/viz/BlackMoneyDash/Dashboard1)
+
+## Overview
+
+This repository contains the Tableau dashboard I created for analyzing the global black money transaction dataset from Kaggle. The dashboard provides an interactive and visual exploration of the dataset, highlighting key trends and insights.
+
+## Dataset
+
+The dataset used in this project is from Kaggle and includes comprehensive information on global black money transactions. It is a valuable resource for understanding patterns and anomalies in illicit financial activities.
+
+- **Source:** [Kaggle - Global Black Money Transaction Dataset](https://www.kaggle.com/your-dataset-link)
+- **Description:** The dataset includes transaction records with various attributes such as transaction amount, date, sender and receiver details, and more.
+
+## Tableau Dashboard
+
+The Tableau dashboard is designed to offer a clear and interactive view of the dataset. Key features of the dashboard include:
+
+- **Summary Statistics:** Provides an overview of the total number of transactions, total amount transacted, and other key metrics.
+- **Trend Analysis:** Visualizes trends over time to identify significant changes and patterns.
+- **Geographic Distribution:** Maps the distribution of transactions across different regions.
+
+
+## Repository Structure
+
+- `data/` : Contains the dataset file(s).
+- `dashboard/` : Includes the Tableau dashboard file(s).
+- `images/` : Contains images used in the `README` file.
+- `scripts/` : Any scripts or code used in data preparation or analysis.
+
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+
+## Acknowledgements
+
+- [Kaggle](https://www.kaggle.com) for providing the dataset.
+- [Tableau](https://www.tableau.com) for the powerful data visualization tool.
+
+
