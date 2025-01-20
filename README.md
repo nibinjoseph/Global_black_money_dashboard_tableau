@@ -1,6 +1,5 @@
 # Global Black Money Transaction Dashboard
 
-![Tableau Dashboard](https://public.tableau.com/app/profile/nibin.joseph4050/viz/BlackMoneyDash/Dashboard1)
 
 ## Overview
 
