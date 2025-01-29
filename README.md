@@ -21,9 +21,3 @@ The Tableau dashboard is designed to offer a clear and interactive view of the d
 - **Geographic Distribution:** Maps the distribution of transactions across different regions.
 
 
-## Acknowledgements
-
-- [Kaggle](https://www.kaggle.com) for providing the dataset.
-- [Tableau](https://www.tableau.com) for the powerful data visualization tool.
-
-
